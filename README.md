@@ -1,2 +1,1 @@
-# tmc-assets
-TMC DAO project assets
+# TheMinerCrabs DAO assets
